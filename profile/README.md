@@ -7,7 +7,7 @@ Welcome to the official GitHub repo of GodSquad1, a diverse and passionate hacka
 We are a group of dedicated students united by curiosity and innovation, collaborating across schools and grade levels to solve real-world problems using AI. Our team members bring different skills and backgrounds, creating a dynamic environment for learning and creativity.
 
 **Team Members**
-
+(https://github.com/yatharthSathya))
 Yatharth Sathya — [GitHub]([url](https://github.com/yatharthSathya)) | [Devpost]([url](https://devpost.com/yatharthSathya1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)) | Linkedin[]([url](https://www.linkedin.com/in/yatharth-s-28060a1bb/))
 High school sophomore curious about solving AI real-world problems with expertise in team leadership & ML model development at hackathons.
 
