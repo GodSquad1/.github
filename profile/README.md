@@ -9,6 +9,7 @@ We are a group of dedicated students united by curiosity and innovation, collabo
 **Team Members**
 
 Yatharth Sathya — [GitHub] - https://github.com/yatharthSathya |  | Linkedin - www.linkedin.com/in/yatharth-sathya
+
 High school sophomore curious about solving AI real-world problems with expertise in team leadership & ML model development at hackathons.
 
 **Get Involved**
