@@ -12,6 +12,10 @@ Yatharth Sathya — [GitHub] - https://github.com/yatharthSathya |  | Linkedin -
 
 High school sophomore curious about solving AI real-world problems with expertise in team leadership & ML model development at hackathons.
 
+Ayush Gupta — [GitHub] - https://github.com/A1-coder-ai
+
+High school freshman with expereince in AI/ML, python, HTML, CSS, etc.
+
 **Get Involved**
 
 We welcome contributions, feedback, and ideas through pull requests! Whether you want to improve the codebase or collaborate on open-source mental health tools, 
