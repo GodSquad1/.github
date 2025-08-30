@@ -14,7 +14,7 @@ High school sophomore curious about solving AI real-world problems with expertis
 
 Ayush Gupta — [GitHub] - https://github.com/A1-coder-ai
 
-High school freshman with expereince in AI/ML, python, HTML, CSS, etc.
+High school freshman with experience in AI/ML, python, HTML, CSS, etc.
 
 **Get Involved**
 
