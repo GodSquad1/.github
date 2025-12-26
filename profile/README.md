@@ -16,6 +16,10 @@ Ayush Gupta — [GitHub] - https://github.com/A1-coder-ai
 
 High school freshman with experience in AI/ML, python, HTML, CSS, etc.
 
+Niranjan Swaminathan
+
+Savir Venkatraman
+
 **Get Involved**
 
 We welcome contributions, feedback, and ideas through pull requests! Whether you want to improve the codebase or collaborate on open-source mental health tools, 
