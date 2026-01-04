@@ -16,9 +16,9 @@ Ayush Gupta — [GitHub] - https://github.com/A1-coder-ai
 
 High school freshman with experience in AI/ML, python, HTML, CSS, etc.
 
-Niranjan Swaminathan
+Niranjan Swaminathan - High school sophmore at Amador Valley High School. 
 
-Savir Venkatraman
+Savir Venkatraman - High school sophmore at Archbishop Mitty High School. 
 
 **Get Involved**
 
