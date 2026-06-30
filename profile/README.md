@@ -10,15 +10,15 @@ We are a group of dedicated students united by curiosity and innovation, collabo
 
 Yatharth Sathya — [GitHub] - https://github.com/yatharthSathya |  | Linkedin - www.linkedin.com/in/yatharth-sathya
 
-High school sophomore curious about solving AI real-world problems with expertise in team leadership & ML model development at hackathons.
+High school rising junior curious about solving AI real-world problems with expertise in team leadership & ML model development at hackathons.
 
-Ayush Gupta — [GitHub] - https://github.com/A1-coder-ai
+Niranjan Swaminathan - [Github] - https://github.com/happycatcoder
 
-High school freshman with experience in AI/ML, python, HTML, CSS, etc.
+High school rising junior at Amador Valley High School. 
 
-Niranjan Swaminathan - High school sophmore at Amador Valley High School. 
+Savir Venkatraman - [Github] - https://github.com/savirvenkatraman28
 
-Savir Venkatraman - High school sophmore at Archbishop Mitty High School. 
+High school rising junior at Archbishop Mitty High School. 
 
 **Get Involved**
 
